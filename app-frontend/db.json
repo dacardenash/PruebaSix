@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "usuId": 1,
+            "nombre": "Andres",
+            "apellido": "Rodriguez Vera"
+        },
+        {
+            "usuId": 2,
+            "nombre": "Jose",
+            "apellido": "Giraldo Perez"
+        },
+        {
+            "usuId": 3,
+            "nombre": "Sandra",
+            "apellido": "Ramirez Jimenez"
+        },
+        {
+            "usuId": 4,
+            "nombre": "Juan Jose",
+            "apellido": "Santana Velasquez"
+        },
+        {
+            "usuId": 5,
+            "nombre": "Olga Lucia",
+            "apellido": "Zapata Huerta"
+        }
+    ]
+
+}
